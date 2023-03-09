@@ -4,10 +4,10 @@
 
 The main purpose of this competition is to make a GAN that will be able to generate between 7000 and 10000 images with the style of the famous painter Monet.
 
->The generated images have to be jpg format with a size of 256x256x3 (RGB) and be zipped in a single file named images.zip.
->The evaluation metric used by kaggle to know if the image is considered good is MiFD: **Memorization-informed Fréchet Inception Distance**.
->The smaller MiFID is, the better your generated images are.
->More details can be found at: [Kaggle Competition](https://www.kaggle.com/competitions/gan-getting-started/overview/description).
+The generated images have to be jpg format with a size of 256x256x3 (RGB) and be zipped in a single file named images.zip.__
+The evaluation metric used by kaggle to know if the image is considered good is MiFD: **Memorization-informed Fréchet Inception Distance**.__
+The smaller MiFID is, the better your generated images are.__
+More details can be found at: [Kaggle Competition](https://www.kaggle.com/competitions/gan-getting-started/overview/description).__
 
 A notebook that allows to well start this challenge is the Notebook of de Amy Jang:
 
@@ -47,9 +47,14 @@ The table of content for the study of the notebook P8_GAN which goal is to load 
 L’objectif de la compétition consiste à réaliser un GAN capable de générer entre 7000 et 10000 images avec le style du peintre Monet.
 
 Les images générées doivent être au format jpg de taille 256x256x3 (RGB) et zippées dans un seul fichier nommé images.zip.
+
 La métrique d'évaluation utilisée par kaggle pour savoir si l'image générée est considérée bonne est la MiFD: **Memorization-informed Fréchet Inception Distance**.
+
 Plus la MiFD est petite, meilleur sont les images générées.
+
 Pour plus de détails, voir le lien suivant: [Kaggle Competition](https://www.kaggle.com/competitions/gan-getting-started/overview/description).
+
+
 
 Un notebook permettant de bien commencer ce challenge est le Notebook suivant de Amy Jang:
 
