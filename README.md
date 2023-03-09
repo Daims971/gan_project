@@ -4,10 +4,10 @@
 
 The main purpose of this competition is to make a GAN that will be able to generate between 7000 and 10000 images with the style of the famous painter Monet.
 
-The generated images have to be jpg format with a size of 256x256x3 (RGB) and be zipped in a single file named images.zip.__
-The evaluation metric used by kaggle to know if the image is considered good is MiFD: **Memorization-informed Fréchet Inception Distance**.__
-The smaller MiFID is, the better your generated images are.__
-More details can be found at: [Kaggle Competition](https://www.kaggle.com/competitions/gan-getting-started/overview/description).__
+The generated images have to be jpg format with a size of 256x256x3 (RGB) and be zipped in a single file named images.zip.  
+The evaluation metric used by kaggle to know if the image is considered good is MiFD: **Memorization-informed Fréchet Inception Distance**.  
+The smaller MiFID is, the better your generated images are.  
+More details can be found at: [Kaggle Competition](https://www.kaggle.com/competitions/gan-getting-started/overview/description).  
 
 A notebook that allows to well start this challenge is the Notebook of de Amy Jang:
 
