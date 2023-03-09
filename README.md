@@ -45,6 +45,7 @@ The table of content for the study of the notebook P8_GAN which goal is to load 
 ## Contexte du projet
 
 L’objectif de la compétition consiste à réaliser un GAN capable de générer entre 7000 et 10000 images avec le style du peintre Monet.  
+
 Les images générées doivent être au format jpg de taille 256x256x3 (RGB) et zippées dans un seul fichier nommé images.zip.  
 La métrique d'évaluation utilisée par kaggle pour savoir si l'image générée est considérée bonne est la MiFD: **Memorization-informed Fréchet Inception Distance**.  
 Plus la MiFD est petite, meilleur sont les images générées.  
